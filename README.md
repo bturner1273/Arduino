@@ -1,0 +1,1 @@
+As a computer engineering major I am very comfortable with embedded systems design. I am homeschooled in Arduino but my education is in the AVR with assembly and embeddedC. These are projects that I have taught to kids, but I am happy to scale up the intensity and build a finger plethysmograph or a home security system on a moments notice!
